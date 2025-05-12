@@ -1,2 +1,2 @@
-# TP_AySO_Ojeda_Valentin
+# TP_AySO_Ojeda
 TP1 ARQ Y SO 2025
