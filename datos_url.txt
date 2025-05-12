@@ -1,1 +1,2 @@
 HOME_URL="https://www.ubuntu.com/"
+model name	: AMD Ryzen 7 5700G with Radeon Graphics
